@@ -1,3 +1,5 @@
+source $HOME/.bash_aliases;
+
 ###Colors
 CYAN="\[\e[38;2;25;249;216m\]";
 GREEN="\[\e[38;2;93;213;3m\]";

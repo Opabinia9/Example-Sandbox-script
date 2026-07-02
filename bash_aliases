@@ -1,0 +1,16 @@
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
+alias gs='git status'
+alias gf='git fetch'
+alias gl='git log --oneline --graph --decorate --branches --all'
+
+alias ls='ls --color=auto'
+alias l='ls -la'
+alias la='ls -a'
+alias ll='ls -l'
+
+alias ..='cd ../'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias .....='cd ../../../../'
